@@ -20,6 +20,7 @@ from mcp.types import (
 )
 
 
+
 class FredServer:
     """Enhanced FRED MCP Server with full historical data support"""
 
@@ -488,7 +489,7 @@ class FredServer:
             print(f"💥 Server error: {str(e)}", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
             raise
-
+            
 
 def main():
     """Entry point"""
