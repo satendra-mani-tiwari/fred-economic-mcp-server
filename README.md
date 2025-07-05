@@ -2,6 +2,7 @@
 
 A powerful Model Context Protocol (MCP) server providing access to Federal Reserve Economic Data (FRED) through Claude and other MCP-compatible clients.
 
+
 ## 🌟 Features
 
 - 📊 **Comprehensive Data Access**: Access to 800,000+ economic time series
