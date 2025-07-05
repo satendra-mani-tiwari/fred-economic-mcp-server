@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fred-economic": {
+      "command": "python",
+      "args": ["path/to/fred_economic_server.py"],
+      "env": {
+        "FRED_API_KEY": "your_actual_fred_api_key_here"
+      }
+    }
+  }
+}
