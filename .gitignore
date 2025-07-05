@@ -21,6 +21,7 @@ wheels/
 *.egg
 MANIFEST
 
+
 # Environment files - CRITICAL FOR SECURITY
 .env
 .venv
